@@ -2,6 +2,16 @@
 收录国内各大知名前端团队的blog，欢迎补充👏
 
 ## 腾讯
+**tntWeb**
+  - github: https://github.com/tnfe
+  - 专栏：https://segmentfault.com/blog/tnfe
+  - 专栏：https://juejin.cn/user/2277843821933751
+**AlloyTeam**
+- blog: http://www.alloyteam.com/ github: https://github.com/AlloyTeam/
+**imweb**
+- blog: https://imweb.io/ github: https://github.com/imweb
+
+  
 
 ## 阿里
 
