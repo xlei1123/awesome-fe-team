@@ -19,6 +19,11 @@
 - blog: https://imweb.io/ 
 - github: https://github.com/imweb
 
+**腾讯开源**
+  
+  - blog: https://opensource.tencent.com/
+  - github: https://github.com/tencent
+
   
 
 ## 阿里
