@@ -26,7 +26,8 @@
   - blog: https://fed.taobao.org/
 
 **阿里妈妈MUX**
-  - blog: https://mux.alimama.com/?spm=taofed.homepage.footer.1.7eab5ac8AFBQFX
+  - blog: https://mux.alimama.com/
+  - github: https://github.com/taofed/
 
 ## 字节
 
