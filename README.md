@@ -24,10 +24,12 @@
 ## 阿里
 **淘系前端团队**
   - blog: https://fed.taobao.org/
+  - github: https://github.com/taofed/
 
 **阿里妈妈MUX**
   - blog: https://mux.alimama.com/
-  - github: https://github.com/taofed/
+  - github: https://github.com/thx
+  
 
 ## 字节
 
