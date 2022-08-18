@@ -11,11 +11,13 @@
 
 **AlloyTeam**
 
-- blog: http://www.alloyteam.com/ github: https://github.com/AlloyTeam/
+- blog: http://www.alloyteam.com/ 
+- github: https://github.com/AlloyTeam/
 
 **imweb**
 
-- blog: https://imweb.io/ github: https://github.com/imweb
+- blog: https://imweb.io/ 
+- github: https://github.com/imweb
 
   
 
