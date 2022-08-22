@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/xlei1123/awesome-fe-team/main/WeChatdcff78b4d165c4aadf16efb1a71c0314.png)
+![logo](https://github.com/xlei1123/awesome-fe-team/blob/main/WechatIMG114.jpeg?raw=true)
 
 收录国内各大知名前端团队的blog，欢迎补充👏
 
