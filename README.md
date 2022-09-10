@@ -51,6 +51,10 @@
 - blog: https://efe.baidu.com/
 - github: https://github.com/ecomfe/
 
+**befe**
+> 百度企业产品前端研发团队
+- blog: http://eux.baidu.com/
+- github: https://github.com/be-fe
 
 ## 美团
 
