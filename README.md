@@ -42,7 +42,8 @@
 ## 字节
 
 ## 百度
-****
+**fex**
+
 - blog: http://fex.baidu.com/
 - github: https://github.com/fex-team/
 
