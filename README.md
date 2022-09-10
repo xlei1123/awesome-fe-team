@@ -47,6 +47,11 @@
 - blog: http://fex.baidu.com/
 - github: https://github.com/fex-team/
 
+****
+- blog: https://efe.baidu.com/
+- github: https://github.com/ecomfe/
+
+
 ## 美团
 
 ## 滴滴
