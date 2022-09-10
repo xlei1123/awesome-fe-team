@@ -42,6 +42,9 @@
 ## 字节
 
 ## 百度
+****
+- blog: http://fex.baidu.com/
+- github: https://github.com/fex-team/
 
 ## 美团
 
