@@ -44,6 +44,8 @@
   
 
 ## 字节
+**抖音**
+  - github: https://github.com/DouyinFE
 
 ## 百度
 **fex**
